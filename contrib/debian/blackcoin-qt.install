@@ -1,0 +1,5 @@
+YutoCoin-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/YutoCoin-qt.desktop usr/share/applications
+debian/YutoCoin-qt.protocol usr/share/kde4/services/

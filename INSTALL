@@ -1,0 +1,9 @@
+Building YutoCoin
+
+See doc/readme-qt.rst for instructions on building YutoCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of YutoCoin.
+
+See doc/build-*.txt for instructions on building YutoCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of YutoCoin.
